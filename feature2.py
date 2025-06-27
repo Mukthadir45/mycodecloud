@@ -1,3 +1,3 @@
 
 
-prin("I am creating the feature2")
+print("I am creating the feature2")
