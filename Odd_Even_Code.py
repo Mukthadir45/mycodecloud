@@ -1,8 +1,8 @@
 
     # A simple python program for printing weather the given number is even or odd 
+Number = int(input("Enter a number to find even or odd"))
 
-a = 4
-if(a%2==0):
-    print("The given number is Even")
+if(Number%2==0):
+    print("True")
 else:
-    print("The given number is Odd")
+    print("False")
