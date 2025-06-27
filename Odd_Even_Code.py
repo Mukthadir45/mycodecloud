@@ -1,5 +1,5 @@
 
-    # A simple python program for printing weather the given number is even or odd 
+    # A simple python program for printing wether the given number is even or odd 
 
 a = 4
 if(a%2==0):
